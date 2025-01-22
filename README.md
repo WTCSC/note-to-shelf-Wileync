@@ -1,3 +1,11 @@
+This code works as a note pad, it allows us to use the terminal to add notes, look at our notes, and search for keywords in notes.
+We made this code to allow us an easy way to take notes just from working in the terminal.  To use this code, you would type
+"./note.sh" followed by either "add", "list", or "search". After add or search, either add what you want to add to the note sheet,
+or add what you want to search in notes.  This code is in shell script
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/x_3ULh4W)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17741834)
 # Note to Shelf
